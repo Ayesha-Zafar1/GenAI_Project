@@ -3,5 +3,5 @@
 
 Interactive Educational Game Using LLaMA for Question Generation
 
-Description
-Use an LLaMA model with retrieval-augmented generation to provide accurate answers to user queries and to grade user-submitted answers.
+# Description
+Use a LLaMA model with retrieval-augmented generation to provide accurate answers to user queries and to grade user-submitted answers.
